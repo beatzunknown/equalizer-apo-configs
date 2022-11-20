@@ -1,0 +1,8 @@
+Device:     Analogue 1 + 2 Focusrite USB Audio {7dc3b783-9333-4c71-be92-6418314b712f}
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reagate-standalone.dll" Thresh 0.00125893 Hold 0.15 Hipass 0 SignIn 0 Attack 0.03 Pre-open 0 Release 0.06 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 Noise 0 Hystrsis 1 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
+Preamp: 20 dB
+Preamp: 16 dB
+# Include: mic.txt
+Device:    Speakers Focusrite USB Audio {0e91cfcb-c757-4dc4-9eb2-200a48bdd89d}
+# Include: wh1000xm3.txt
+Include: ie80s.txt

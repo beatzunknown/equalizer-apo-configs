@@ -4,5 +4,14 @@ Preamp: 20 dB
 Preamp: 16 dB
 # Include: mic.txt
 Device:    Speakers Focusrite USB Audio {0e91cfcb-c757-4dc4-9eb2-200a48bdd89d}
-# Include: wh1000xm3.txt
-Include: ie80s.txt
+Include: peace.txt
+# Include: xm3.txt
+# Include: ie80s_oratory_boosted.txt
+# Include: ie80s_usound.txt
+# Include: ie80s_crin_half.txt
+# Include: k175.txt
+# Include: xm3_to_hd600.txt
+# Include: xm3_to_hd6xx.txt
+# Include: xm3_to_focal_clear.txt
+Channel: L
+# Preamp: -20 dB

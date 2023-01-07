@@ -27,7 +27,7 @@ SpeakerId8=8
 SpeakerTargets8=SR
 SpeakerName8=Right side
 [General]
-PreAmp=-5.3
+PreAmp=-7.5
 [Frequencies]
 Frequency1=45
 Frequency2=105
@@ -39,15 +39,6 @@ Frequency7=4948
 Frequency8=6411
 Frequency9=9166
 Frequency10=10000
-[Gains]
-Gain1=0.2
-Gain4=3.7
-Gain5=0.6
-Gain6=-0.7
-Gain7=-9.3
-Gain8=1.2
-Gain9=5.9
-Gain10=-0.8
 [Qualities]
 Quality1=1.81
 Quality2=0.9
@@ -62,3 +53,11 @@ Quality10=0.9
 [Filters]
 Filter2=4
 Filter10=5
+[Gains]
+Gain4=3.7
+Gain5=0.6
+Gain6=-0.7
+Gain7=-9.3
+Gain8=1.2
+Gain9=5.9
+Gain10=-0.8
